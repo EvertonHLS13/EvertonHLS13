@@ -68,7 +68,7 @@ Meu foco é atuar como Desenvolvedor Backend Java, aplicando conhecimentos em Ja
     title="SQlite"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 <img 
     align="left" 
