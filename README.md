@@ -44,6 +44,16 @@ Meu foco é atuar como Desenvolvedor Backend Java, aplicando conhecimentos em Ja
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Kotlin"
+    title="Kotlin" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="SpringBoot"
@@ -69,6 +79,14 @@ Meu foco é atuar como Desenvolvedor Backend Java, aplicando conhecimentos em Ja
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
