@@ -38,6 +38,14 @@ Meu foco é atuar como Desenvolvedor Backend Java, aplicando conhecimentos em Ja
 />
 <img 
     align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
@@ -95,6 +103,24 @@ Meu foco é atuar como Desenvolvedor Backend Java, aplicando conhecimentos em Ja
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
