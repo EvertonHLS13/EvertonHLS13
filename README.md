@@ -154,6 +154,14 @@ Meu foco é atuar como Desenvolvedor Backend Java, aplicando conhecimentos em Ja
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" 
 />
+<img 
+    align="Grafana" 
+    alt="Grafana" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
+/>
 <br/>
 <br/>
 
