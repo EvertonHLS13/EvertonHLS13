@@ -1,6 +1,6 @@
 # ☕ Everton Holanda
 
-**`Desenvolvedor Backend Jr`**
+**`Desenvolvedor Backend`**
 
 Sou Everton Holanda, formado em Análise e Desenvolvimento de Sistemas. Tenho experiência em Suporte Técnico e Infraestrutura de TI, atuando com ambientes Microsoft 365, redes e servidores. Recentemente finalizei o curso Java Moderno com Spring Boot e 11 Projetos, onde desenvolvi APIs REST, integração com banco de dados e consultas avançadas via Postman.
 
