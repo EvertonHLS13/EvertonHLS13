@@ -2,9 +2,24 @@
 
 **`Desenvolvedor Backend`**
 
-Sou Everton Holanda, formado em Análise e Desenvolvimento de Sistemas. Tenho experiência em Suporte Técnico e Infraestrutura de TI, atuando com ambientes Microsoft 365, redes e servidores. Recentemente finalizei o curso Java Moderno com Spring Boot e 11 Projetos, onde desenvolvi APIs REST, integração com banco de dados e consultas avançadas via Postman.
+Sou Everton Holanda, formado em Análise e Desenvolvimento de Sistemas, com experiência em Suporte Técnico e Infraestrutura de TI (Microsoft 365, redes e servidores).
+Estou em transição para Desenvolvimento Backend Java e concluí o curso Java Moderno com Spring Boot e 11 Projetos, desenvolvendo APIs REST, integração com banco de dados, consultas avançadas e testes via Postman.
 
-Meu foco é atuar como Desenvolvedor Backend Java, aplicando conhecimentos em Java, Spring Boot, Hibernate, SQL Server e Python, criando soluções robustas e escaláveis. "[Linkedin](https://www.linkedin.com/in/everton-holanda-3971b9142/)"
+Tenho foco em Backend Java, utilizando Java, Spring Boot, Hibernate/JPA, SQL Server e Python. Possuo também experiência em projetos Full Stack e conhecimentos iniciais em React Native, incluindo implementação de formulário com Expo e integração à câmera.
+
+🎓 Formação & Certificações
+
+Análise e Desenvolvimento de Sistemas — Concluído
+
+Microsoft Azure AD Fundamentals
+
+Cursos: Java Moderno com Spring Boot, Kotlin e Spring do Zero ao Avançado
+
+Carreira Java – Alura (em fase final de conclusão)
+
+
+Busco uma oportunidade como Desenvolvedor Backend Java Júnior, com foco em soluções robustas, escaláveis e bem estruturadas.
+ "[Linkedin](https://www.linkedin.com/in/everton-holanda-3971b9142/)"
 
 
 
