@@ -5,7 +5,7 @@
 Sou Everton Holanda, formado em Análise e Desenvolvimento de Sistemas, com experiência em Suporte Técnico e Infraestrutura de TI (Microsoft 365, redes e servidores).
 Estou em transição para Desenvolvimento Backend Java e concluí o curso Java Moderno com Spring Boot e 11 Projetos, desenvolvendo APIs REST, integração com banco de dados, consultas avançadas e testes via Postman.
 
-Tenho foco em Backend Java, utilizando Java, Spring Boot, Hibernate/JPA, SQL Server e Python. Possuo também experiência em projetos Full Stack e conhecimentos iniciais em React Native, incluindo implementação de formulário com Expo e integração à câmera.
+Tenho foco em Backend Java, utilizando Java, Spring Boot, Hibernate/JPA, SQL Server. Possuo também experiência em projetos Full Stack e conhecimentos iniciais em React Native, incluindo implementação de formulário com Expo e integração à câmera.
 
 🎓 Formação & Certificações
 
