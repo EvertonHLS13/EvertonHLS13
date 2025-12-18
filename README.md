@@ -154,25 +154,25 @@ Busco uma oportunidade como Desenvolvedor Backend Java Júnior, com foco em solu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="Docker" 
+    align="left" 
     alt="Docker" 
-    title="Git"
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 <img 
-    align="Kubernetes" 
+    align="left" 
     alt="Kubernetes" 
-    title="Git"
+    title="Kubernetes"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" 
 />
 <img 
-    align="Grafana" 
+    align="left" 
     alt="Grafana" 
-    title="Git"
+    title="Grafana"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
