@@ -1,4 +1,4 @@
-# ☕ Everton Holanda
+#  Everton Holanda
 
 **`Desenvolvedor Backend`**
 
@@ -7,7 +7,7 @@ Atualmente estou em transição para Desenvolvimento Backend Java e concluí o c
 
 Tenho foco em Backend Java, utilizando Java, Spring Boot, Hibernate/JPA e SQL Server. Também possuo experiência em projetos Full Stack e conhecimentos em React Native, com desenvolvimento de aplicações mobile utilizando Expo, incluindo formulários, integração com câmera, consumo de APIs, além de geolocalização e exibição de mapas, permitindo captura e visualização de coordenadas em tempo real.
 
-🎓 Formação & Certificações
+ Formação & Certificações
 
 Análise e Desenvolvimento de Sistemas — Concluído
 
