@@ -18,7 +18,7 @@ Cursos: Java Moderno com Spring Boot, Kotlin e Spring do Zero ao Avançado
 Carreira Java – Alura (em fase final de conclusão)
 
 
-Busco uma oportunidade como Desenvolvedor Backend Java Júnior, com foco em soluções robustas, escaláveis e bem estruturadas.
+Busco uma oportunidade como Desenvolvedor Backend Java\Kotlin, com foco em soluções robustas, escaláveis e bem estruturadas.
  "[Linkedin](https://www.linkedin.com/in/everton-holanda-3971b9142/)"
 
 
