@@ -2,23 +2,13 @@
 
 **`Desenvolvedor Backend`**
 
-Sou Everton Holanda, formado em Análise e Desenvolvimento de Sistemas, com experiência em Suporte Técnico e Infraestrutura de TI (Microsoft 365, redes e servidores).
-Atualmente estou em transição para Desenvolvimento Backend Java e concluí o curso Java Moderno com Spring Boot e 11 Projetos, onde desenvolvi APIs REST, integração com banco de dados, consultas avançadas e testes via Postman.
+Sou Everton Holanda, formado em Análise e Desenvolvimento de Sistemas, com mais de 8 anos de experiência em Suporte Técnico e Infraestrutura de TI (Microsoft 365, redes, servidores e sistemas ERP).
 
-Tenho foco em Backend Java, utilizando Java, Spring Boot, Hibernate/JPA e SQL Server. Também possuo experiência em projetos Full Stack e conhecimentos em React Native, com desenvolvimento de aplicações mobile utilizando Expo, incluindo formulários, integração com câmera, consumo de APIs, além de geolocalização e exibição de mapas, permitindo captura e visualização de coordenadas em tempo real.
+Atualmente estou em transição para Desenvolvimento Backend Java, com foco em Java, Spring Boot, Hibernate/JPA e SQL Server, atuando no desenvolvimento de APIs REST, integração com banco de dados, frontend conectado ao Spring, além de testes de APIs com Postman e Insomnia e implementação de testes unitários e automatizados para garantir qualidade e confiabilidade das aplicações.
 
- Formação & Certificações
+Atuo de forma alinhada às regras de negócio definidas pelo Product Owner, seguindo o framework Scrum, com participação ativa nas dailies junto ao Tech Leader e Scrum Master, assegurando entregas consistentes e aderentes aos objetivos do produto.
 
-Análise e Desenvolvimento de Sistemas — Concluído
-
-Microsoft Azure AD Fundamentals
-
-Cursos: Java Moderno com Spring Boot, Kotlin e Spring do Zero ao Avançado
-
-Carreira Java – Alura (em fase final de conclusão)
-
-
-Busco uma oportunidade como Desenvolvedor Backend Java\Kotlin, com foco em soluções robustas, escaláveis e bem estruturadas.
+Possuo forte capacidade analítica, comunicação clara e facilidade para traduzir requisitos de negócio em soluções técnicas. Busco uma oportunidade como Desenvolvedor Backend Java e Kotlin, focado em soluções robustas, escaláveis e bem estruturadas.
  "[Linkedin](https://www.linkedin.com/in/everton-holanda-3971b9142/)"
 
 
