@@ -185,7 +185,7 @@ Possuo forte capacidade analítica, comunicação clara e facilidade para traduz
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=11" 
   />
 
 </p>
