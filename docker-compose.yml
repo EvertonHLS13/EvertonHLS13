@@ -39,3 +39,5 @@ services:
       - DB_PASSWORD=root
       - DB_NAME=root
       - DB_PORT=5432
+
+      # Ajuste temporário para criar PR
