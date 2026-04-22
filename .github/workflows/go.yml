@@ -37,6 +37,13 @@ jobs:
       - name: Install dependencies
         run: go mod download
 
+      - name: Wait for Postgres
+        run: |
+          until pg_isready -h localhost -p 5432 -U root; do
+            echo "Waiting for Postgres..."
+            sleep 2
+          done
+
       - name: Run tests
         env:
           DB_HOST: localhost
@@ -44,4 +51,4 @@ jobs:
           DB_USER: root
           DB_PASSWORD: root
           DB_NAME: root
-        run: go test -v main_test.go
+        run: go test -v ./...
