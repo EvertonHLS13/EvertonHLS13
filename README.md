@@ -137,6 +137,15 @@ Possuo forte capacidade analítica, comunicação clara e facilidade para traduz
 
 <img 
     align="left" 
+    alt="mongoDB" 
+    title="mongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
