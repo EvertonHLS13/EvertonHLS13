@@ -184,24 +184,37 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
 <div align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=EvertonHLS13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-height="180"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&layout=donut&langs_count=20&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true"
-height="180"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvertonHLS13&theme=tokyonight"
 width="100%"
+alt="Estatísticas do GitHub"
+/>
+
+<br><br>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvertonHLS13&theme=tokyonight"
+height="180"
+alt="Estatísticas"
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvertonHLS13&theme=tokyonight"
+height="180"
+alt="Linguagens"
+/>
+
+<br><br>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvertonHLS13&theme=tokyonight"
+height="180"
+alt="Linguagens por commits"
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EvertonHLS13&theme=tokyonight&utcOffset=-3"
+height="180"
+alt="Horário de produtividade"
 />
 
 </div>
