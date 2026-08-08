@@ -2,13 +2,13 @@
 
 **`Desenvolvedor Backend`**
 
-Sou Everton Holanda, formado em Análise e Desenvolvimento de Sistemas, com mais de 8 anos de experiência em Suporte Técnico e Infraestrutura de TI (Microsoft 365, redes, servidores e sistemas ERP).
+Sou formado em Análise e Desenvolvimento de Sistemas, com mais de 8 anos de experiência em TI, atuando em Suporte Técnico e Infraestrutura.
 
-Atualmente estou em transição para Desenvolvimento Backend Java, com foco em Java, Spring Boot, Hibernate/JPA e SQL Server, atuando no desenvolvimento de APIs REST, integração com banco de dados, frontend conectado ao Spring, além de testes de APIs com Postman e Insomnia e implementação de testes unitários e automatizados para garantir qualidade e confiabilidade das aplicações.
+Atualmente, meu foco é Desenvolvimento Backend com Java, utilizando Spring Boot, Spring Security, Hibernate/JPA e APIs REST.
 
-Atuo de forma alinhada às regras de negócio definidas pelo Product Owner, seguindo o framework Scrum, com participação ativa nas dailies junto ao Tech Leader e Scrum Master, assegurando entregas consistentes e aderentes aos objetivos do produto.
+Também possuo experiência com Kotlin e Go, além de desenvolvimento de APIs com Node.js, Express, MongoDB e Mongoose, trabalhando com bancos relacionais e NoSQL.
 
-Possuo forte capacidade analítica, comunicação clara e facilidade para traduzir requisitos de negócio em soluções técnicas. Busco uma oportunidade como Desenvolvedor Backend Java e Kotlin, focado em soluções robustas, escaláveis e bem estruturadas.
+Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Spring Boot, contribuindo para a construção de aplicações robustas, escaláveis e bem estruturadas.
  "[Linkedin](https://www.linkedin.com/in/everton-holanda-3971b9142/)"
 
 
@@ -179,22 +179,10 @@ Possuo forte capacidade analítica, comunicação clara e facilidade para traduz
 <br/>
 <br/>
 
-### 📊 Estatísticas
+📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EvertonHLS13&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=EvertonHLS13&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" height="180" />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Principais tecnologias" height="180" />
 
 </p>
