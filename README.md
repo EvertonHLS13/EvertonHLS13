@@ -179,18 +179,29 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EvertonHLS13&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-    height="180"
-  />
+<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-    alt="Principais tecnologias"
-    height="180"
-  />
-</p>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=EvertonHLS13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+height="180"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&layout=donut&langs_count=20&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true"
+height="180"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true"
+width="100%"
+/>
+
+</div>
