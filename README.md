@@ -152,6 +152,16 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Github Actions" 
+    title="Github Actions"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" 
+/>
+
 <img 
     align="left" 
     alt="Docker" 
@@ -204,6 +214,14 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Heroku" 
+    title="Heroku"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain-wordmark.svg" 
+/>
 
 <br/>
 <br/>
