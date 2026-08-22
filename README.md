@@ -98,7 +98,7 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
     title="Maven" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
 />
 
 <img 
@@ -107,7 +107,7 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
     title="Gradle" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" 
 />
 
 <img 
@@ -116,7 +116,7 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
 <img 
