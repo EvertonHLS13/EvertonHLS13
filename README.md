@@ -246,6 +246,9 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
 
 ## 📊 Estatísticas
 
+<br/>
+<br/>
+
 <div align="center">
 
 <img 
