@@ -52,3 +52,12 @@ jobs:
           DB_PASSWORD: root
           DB_NAME: root
         run: go test -v ./...
+      
+      - name: Build
+        run: go build main.go
+
+      - name: Projeto compilado
+        uses: actions/upload-artifact@v7
+        with:
+          name: projeto_compilado
+          path: main 
