@@ -247,7 +247,7 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
     title="Nginx"
     width="30px" 
     style="padding-right: 10px;" 
-    src="devicon-nginx-original" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
 />
 
 <br/>
