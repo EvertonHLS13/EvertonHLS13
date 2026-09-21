@@ -241,6 +241,15 @@ Busco uma oportunidade como Desenvolvedor Backend, com foco principal em Java/Sp
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain-wordmark.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Nginx" 
+    title="Nginx"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="devicon-nginx-original" 
+/>
+
 <br/>
 <br/>
 
