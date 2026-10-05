@@ -49,6 +49,7 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 ### Arquitetura, Mensageria e Observabilidade
 
 <img align="left" alt="Kafka" title="Apache Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img align="left" alt="Rabbit" title="RabbitMQ" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 <img align="left" alt="OpenTelemetry" title="OpenTelemetry" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" />
 <img align="left" alt="Grafana" title="Grafana" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
 
