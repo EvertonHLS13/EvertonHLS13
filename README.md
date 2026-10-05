@@ -14,7 +14,7 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 
 ---
 
-## 🚀 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 ### Linguagens
 
@@ -58,11 +58,13 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 * Spring WebFlux e Spring Security
 * Hibernate/JPA e Flyway
 * Microsserviços e Spring Cloud Gateway
-* Eureka, Kafka e RabbitMQ
-* Redis, OpenTelemetry e Jaeger
+* Eureka
+* Apache Kafka e RabbitMQ
+* Redis
+* OpenTelemetry e Jaeger
 * Clean Architecture e Design Patterns
 
-### Testes e DevOps
+### Testes, DevOps e Cloud
 
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
@@ -70,6 +72,8 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 <img align="left" alt="GitHub Actions" title="GitHub Actions" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />
 <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="Heroku" title="Heroku" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" />
+<img align="left" alt="Nginx" title="Nginx" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
 
 <br/><br/>
 
@@ -78,8 +82,9 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 * Git e GitHub Actions
 * CI/CD
 * AWS, Azure e Google Cloud
-* Maven e Gradle
+* Heroku
 * Nginx
+* Maven e Gradle
 
 ---
 
