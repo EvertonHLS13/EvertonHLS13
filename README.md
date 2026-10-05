@@ -10,7 +10,7 @@ Também trabalho com Kotlin, Go e Node.js, além de tecnologias voltadas à arqu
 
 Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicando boas práticas de programação e arquitetura de software.
 
-[LinkedIn](https://www.linkedin.com/in/everton-holanda-3971b9142/) | [GitHub](https://github.com/EvertonHLS13)
+[LinkedIn](https://www.linkedin.com/in/everton-holanda-3971b9142/) 
 
 ---
 
