@@ -100,18 +100,12 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvertonHLS13&theme=tokyonight" width="100%" alt="Resumo do perfil GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EvertonHLS13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="Estatísticas GitHub"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonHLS13&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Principais linguagens"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvertonHLS13&theme=tokyonight" height="180" alt="Estatísticas GitHub"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvertonHLS13&theme=tokyonight" height="180" alt="Linguagens dos repositórios"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvertonHLS13&theme=tokyonight" height="180" alt="Linguagens por commits"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EvertonHLS13&theme=tokyonight&utcOffset=-3" height="180" alt="Horários de produtividade"/>
+<img src="https://streak-stats.demolab.com?user=EvertonHLS13&theme=tokyonight" width="70%" alt="GitHub Streak"/>
 
 </div>
