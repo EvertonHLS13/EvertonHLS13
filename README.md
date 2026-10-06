@@ -6,11 +6,11 @@ Formado em Análise e Desenvolvimento de Sistemas, com mais de 8 anos de experi�
 
 Atualmente, direciono minha carreira para o Desenvolvimento Backend, com foco em **Java 17/21, Spring Boot, Spring Security, Hibernate/JPA e APIs REST**.
 
-Também trabalho com Kotlin, Go e Node.js, além de tecnologias voltadas à arquitetura de microsserviços, mensageria, bancos de dados, containers, testes automatizados e observabilidade.
+Também trabalho com Kotlin, Go e Node.js, além de tecnologias voltadas a microsserviços, mensageria, bancos de dados, containers, testes automatizados, CI/CD e observabilidade.
 
 Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicando boas práticas de programação e arquitetura de software.
 
-[LinkedIn](https://www.linkedin.com/in/everton-holanda-3971b9142/) 
+[LinkedIn](https://www.linkedin.com/in/everton-holanda-3971b9142/)
 
 ---
 
@@ -49,7 +49,7 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 ### Arquitetura, Mensageria e Observabilidade
 
 <img align="left" alt="Kafka" title="Apache Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
-<img align="left" alt="Rabbit" title="RabbitMQ" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+<img align="left" alt="RabbitMQ" title="RabbitMQ" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 <img align="left" alt="OpenTelemetry" title="OpenTelemetry" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" />
 <img align="left" alt="Grafana" title="Grafana" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
 
@@ -86,6 +86,13 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 * Heroku
 * Nginx
 * Maven e Gradle
+
+### Agentes de IA e Desenvolvimento Assistido
+
+* Cursor
+* Claude Code
+* IBM watsonx
+* Agentes de IA aplicados ao desenvolvimento de software
 
 ---
 
