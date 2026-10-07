@@ -91,6 +91,7 @@ Meu objetivo é desenvolver soluções robustas, escaláveis e seguras, aplicand
 
 * Cursor
 * Claude Code
+* GitHub Copilot
 * IBM watsonx
 * Agentes de IA aplicados ao desenvolvimento de software
 
